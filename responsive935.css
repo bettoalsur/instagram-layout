@@ -1,0 +1,29 @@
+@media (max-width: 935px) {
+
+    .conteudo{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .lado-direito {
+        position: relative;
+        display: none;
+    }
+
+    .lado-esquerdo{
+        margin-right: 0px;
+        transform: translateX(0px); /* tirar o offset */
+    }
+
+    .topo-1,
+    .topo-2 {
+        width: calc( 100vw - 58px);
+    
+        padding-left: 29px;
+        padding-right: 29px;
+    }
+
+}
