@@ -102,8 +102,7 @@ ion-icon {
     height: auto;
     padding-top: 88px;
 
-    background-color: #E5E5E5 ;
-    /* background-color: #DBDBDB; */
+    background-color: #FAFAFA;
 }
 
 /* */
@@ -659,6 +658,10 @@ video {
     
     margin-top: 12px;
     margin-bottom: 12px;
+
+    border-top: #DBDBDB 1px solid;
+    padding-top: 7px;
+
 }
 
 .cara-texto {
