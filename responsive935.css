@@ -9,12 +9,12 @@
     }
 
     .lado-direito {
+        transform: translateX(0px); 
         position: relative;
         display: none;
     }
 
     .lado-esquerdo{
-        margin-right: 0px;
         transform: translateX(0px); /* tirar o offset */
     }
 

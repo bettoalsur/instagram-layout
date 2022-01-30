@@ -39,7 +39,6 @@ ion-icon {
 
 .liked {
     color: rgb(238, 37, 37);
-    font-size: 20px;
 }
 
 .barra-vertical {
@@ -110,7 +109,6 @@ ion-icon {
 .lado-esquerdo{
     width: 612px;
     height: auto;
-    margin-right: 30px;
 }
 
 .stories{
@@ -347,7 +345,6 @@ ion-icon {
 /* */
 
 .lado-direito{
-
     width: 293px;
 }
 
